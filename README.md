@@ -1,4 +1,5 @@
-# Dua-Reveltek
+# Dua-RevelTek
+
 <h1 align="center">Hi 👋, I'm Syeda Dua Fatima Kazmi</h1>
 <h3 align="center">A passionate Scrum Master at Priv.</h3>
 
@@ -12,7 +13,7 @@
 
 - 🌱 I’m currently learning **Scrum Master Course, Jira Cource**
 
-- 💬 Ask me about **I am Syeda Dua Fatima, holding a Bachelor's degree in Information Technology (BS in IT) and proudly residing in Chiniot, Pakistan. My professional journey began at RevelTek Company, where I honed my skills for a year, contributing to projects that enriched my understanding of the IT industry. Currently, I serve as a Scrum Master at Privs, where I play a pivotal role in leveraging Agile methodologies to ensure project success. My responsibilities encompass orchestrating collaborative efforts, implementing Scrum practices, and nurturing a cohesive team environment to achieve our goals effectively. My background in IT, coupled with my experience at RevelTek, has equipped me with a robust foundation in technology and project management. As a Scrum Master, I am passionate about guiding teams and fostering an environment that promotes innovation and seamless project delivery.**
+- 💬 About **I am Syeda Dua Fatima, holding a Bachelor's degree in Information Technology (BS in IT) and proudly residing in Chiniot, Pakistan. My professional journey began at RevelTek Company, where I honed my skills for a year, contributing to projects that enriched my understanding of the IT industry. Currently, I serve as a Scrum Master at Privs, where I play a pivotal role in leveraging Agile methodologies to ensure project success. My responsibilities encompass orchestrating collaborative efforts, implementing Scrum practices, and nurturing a cohesive team environment to achieve our goals effectively. My background in IT, coupled with my experience at RevelTek, has equipped me with a robust foundation in technology and project management. As a Scrum Master, I am passionate about guiding teams and fostering an environment that promotes innovation and seamless project delivery.**
 
 - 📫 How to reach me **dua@focuspass.com**
 
